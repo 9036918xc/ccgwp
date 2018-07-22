@@ -1,0 +1,10 @@
+<wpml-config>
+  <admin-texts>
+    <key name="accelerate">
+      <key name="accelerate_read_more_text"/>
+      <key name="accelerate_footer_editor"/>
+      <key name="accelerate_header_logo_image"/>
+      <key name="accelerate_favicon"/>
+    </key>
+  </admin-texts>
+</wpml-config>

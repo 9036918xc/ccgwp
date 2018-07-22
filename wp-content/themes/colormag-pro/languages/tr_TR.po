@@ -1,0 +1,2030 @@
+# Translation of Themes - ColorMag Pro in Turkish
+# This file is distributed under the same license as the Themes - ColorMag Pro package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-10-10 04:03:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.2.2\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - ColorMag Pro\n"
+
+#. Author URI of the plugin/theme
+msgid "https://themegrill.com/wordpress-themes/"
+msgstr ""
+
+#: inc/widgets/widgets.php:861 inc/widgets/widgets.php:1114
+#: inc/widgets/widgets.php:1826 inc/widgets/widgets.php:2081
+#: inc/widgets/widgets.php:2672 inc/widgets/widgets.php:3051
+#: inc/widgets/widgets.php:3286
+msgid "View All"
+msgstr ""
+
+#: inc/widgets/widgets.php:736 inc/widgets/widgets.php:989
+#: inc/widgets/widgets.php:1695 inc/widgets/widgets.php:1955
+#: inc/widgets/widgets.php:2540 inc/widgets/widgets.php:2911
+#: inc/widgets/widgets.php:3161
+msgid "Check to display the view all button to link that button to the specific category chosen in this widget."
+msgstr ""
+
+#: inc/widgets/widgets.php:309 inc/widgets/widgets.php:521
+#: inc/widgets/widgets.php:731 inc/widgets/widgets.php:984
+#: inc/widgets/widgets.php:1690 inc/widgets/widgets.php:1950
+#: inc/widgets/widgets.php:2535 inc/widgets/widgets.php:2906
+#: inc/widgets/widgets.php:3156
+msgid "Check to display the posts from child category of the chosen category."
+msgstr ""
+
+#: inc/widgets/widgets.php:304 inc/widgets/widgets.php:516
+#: inc/widgets/widgets.php:726 inc/widgets/widgets.php:979
+#: inc/widgets/widgets.php:1685 inc/widgets/widgets.php:1945
+#: inc/widgets/widgets.php:2530 inc/widgets/widgets.php:2901
+#: inc/widgets/widgets.php:3151
+msgid "Check to display the random post from either the chosen category or from latest post."
+msgstr ""
+
+#: inc/customizer.php:935
+msgid "Check to activate the sticky options for content and sidebar areas."
+msgstr ""
+
+#: inc/customizer.php:923
+msgid "Sticky Content And Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:1222 inc/widgets/widgets.php:1335
+#: inc/widgets/widgets.php:1453
+msgid "Select an Image"
+msgstr "Resim seç"
+
+#: inc/widgets/widgets.php:1222 inc/widgets/widgets.php:1335
+#: inc/widgets/widgets.php:1453
+msgid "Use image"
+msgstr "Resmi Kullan"
+
+#: inc/widgets/widgets.php:1222 inc/widgets/widgets.php:1335
+#: inc/widgets/widgets.php:1453
+msgid "Choose an image"
+msgstr "Resim Seç"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:1183
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ".xml dosyası seçip içeri aktarın"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:1182
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr "Wordpress RSS(WXR) dosyasını yükleyin ve yazılar,sayfalar,yorumlar ve özel alanlar ayarlarınız geri gelsin"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:1167
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr "Yeni içeri aktarıcı sürümü %s  mevcut.Lütfen yükseltin "
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:1160
+msgid "Import WordPress"
+msgstr "Wordpress e içeri aktar"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:1067
+msgid "Remote file is too large, limit is %s"
+msgstr "Dosya çok büyük %s"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:1061
+msgid "Zero size file downloaded"
+msgstr "Boyutu olmayan dosya indirildi"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:1056
+msgid "Remote file is incorrect size"
+msgstr "Dosya boyutu yanlış"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:1043
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr "Uzak sunucu hatası %1$d %2$s for %3$s"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:965
+msgid "Invalid file type"
+msgstr "Geçersiz dosya tipi"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:951
+msgid "Fetching attachments is not enabled"
+msgstr "Eklenti çekme devre dışı"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:883
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Menü eşyası hata yüzünden atlandı  %s"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:876
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Menü eşyası hata yüzünden atlandı"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:711
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "İçeri aktarılamadı %s &#8220;%s&#8221;"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:649
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; zaten var"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:612
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Aktarılamadı &#8220;%s&#8221;: Geçersiz yazı tipi %s"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:523
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:745
+msgid "Failed to import %s %s"
+msgstr "İçeri aktarılamadı %s %s"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:474
+msgid "Failed to import post tag %s"
+msgstr "Yazı etiketi içeri aktarılamadı %s"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:431
+msgid "Failed to import category %s"
+msgstr "Kategori  içeri aktarılamadı %s"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:379
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr "Yeni kullanıcı olşturulamadı %s. Mesajları geçerli kullanıcıyla ilişkilendirildi"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:329
+msgid "- Select -"
+msgstr "- Seç -"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:328
+msgid "or assign posts to an existing user:"
+msgstr "Yada yazıyı eski kullanıcıya ata"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:326
+msgid "assign posts to an existing user:"
+msgstr "Yazıyı eski kullanıcıya ata"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:318
+msgid "as a new user:"
+msgstr "yeni kullanıcı olarak"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:315
+msgid "or create new user with login name:"
+msgstr "yada giriş adıyla yeni kullanıcı oluştur"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:304
+msgid "Import author:"
+msgstr "Yazarı içeri aktar:"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:291
+msgid "Submit"
+msgstr "Gönder"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:287
+msgid "Download and import file attachments"
+msgstr "Dosya eklentilerini indir ve içeri aktar"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:284
+msgid "Import Attachments"
+msgstr "Eklentileri içeri aktar"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:274
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr "Wordpress tarafında oluşturulan kullanıcı rastgele şifeye sahip olup rolü &#8217;s olucak: %s. Yeni kullanıcı desayları&#8217;s gerekli"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:272
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr "İçeriye aktarılan içeriği düzenlemek kolay.Yazar atayabilirsiniz.Mesela hepsine <code>admin</code> e atayabilirsiniz"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:271
+msgid "Assign Authors"
+msgstr "Yazar ata"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:245
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr "Yazar içeri aktarması başarısız %s. Mesajları varsayılan kullancıya aktarılacak"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:220
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "Belki de WXR dosyayı bu sürümde desteklenmemekte ( %s).Güncellemeyi deneyin"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:204
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr "Çıkartma dosyası <code>%s</code> adresinde bulunmuyor.Genellikle izin problemi bu sorunu yaratmakta"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:184
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "Güncellenen şifre ve rolleri içeri aktarılan kullanıcılar için hatırla"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:183
+msgid "Have fun!"
+msgstr "İyi eğlenceler!"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:183
+msgid "All done."
+msgstr "Hepsi tamamlandı"
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:140
+msgid "The file does not exist, please try again."
+msgstr "Böyle bir dosya bulunmamakta."
+
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:139
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:148
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:199
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:203
+#: inc/demo-importer/includes/wordpress-importer/wordpress-importer.php:212
+msgid "Sorry, there has been an error."
+msgstr "Üzgünüz,bir hata meydana geldi"
+
+#: inc/demo-importer/includes/wordpress-importer/parsers.php:84
+#: inc/demo-importer/includes/wordpress-importer/parsers.php:89
+#: inc/demo-importer/includes/wordpress-importer/parsers.php:306
+#: inc/demo-importer/includes/wordpress-importer/parsers.php:495
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "WXR dosyası olarak gözükmüyor.Bilinmeyen WXR versiyon numarası"
+
+#: inc/demo-importer/includes/wordpress-importer/parsers.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr "Detaylar yukarıda gözüyor.İçeri aktarıyıcı alternatif bir yol arıyor"
+
+#: inc/demo-importer/includes/wordpress-importer/parsers.php:42
+#: inc/demo-importer/includes/wordpress-importer/parsers.php:72
+#: inc/demo-importer/includes/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr "WXR dosyası okumada hata"
+
+#: inc/demo-importer/includes/views/html-admin-page-importer.php:69
+msgid "Please Wait&hellip;"
+msgstr "Lütfen bekleyin  &hellip;"
+
+#: inc/demo-importer/includes/views/html-admin-page-importer.php:68
+msgid "Preview"
+msgstr "Önizleme"
+
+#: inc/demo-importer/includes/views/html-admin-page-importer.php:66
+msgid "Live Preview"
+msgstr "Canlı önizleme"
+
+#: inc/demo-importer/includes/views/html-admin-page-importer.php:59
+#: inc/demo-importer/includes/views/html-admin-page-importer.php:61
+#: inc/demo-importer/includes/views/html-admin-page-importer.php:64
+msgid "Import"
+msgstr "İçeri aktar"
+
+#: inc/demo-importer/includes/views/html-admin-page-importer.php:59
+msgid "Required Plugin must be activated to import this demo."
+msgstr "İçeri aktarmak için gereken eklenti aktifleştirilmeli"
+
+#. translators: %s: demo name
+#: inc/demo-importer/includes/views/html-admin-page-importer.php:50
+msgid "<span>Imported:</span> %s"
+msgstr "<span>İçeri aktarıldı</span> %s"
+
+#: inc/demo-importer/includes/views/html-admin-page-importer.php:42
+msgid "<strong>Recommended Plugins:</strong> %s"
+msgstr "<strong>Önerilen Eklentiler:</strong> %s"
+
+#: inc/demo-importer/includes/views/html-admin-page-importer.php:39
+msgid "<strong>Required Plugins:</strong> %s"
+msgstr "<strong>Gereken Eklentiler:</strong> %s"
+
+#: inc/demo-importer/includes/views/html-admin-page-importer.php:19
+msgid "<strong>Notice</strong> &#8211; If you want to completely remove a demo installation after importing it, you can use a plugin like %sWordPress Reset%s."
+msgstr "<strong>Notice</strong> &#8211;Demodan sonra tamamen kaldırmak için  %sWordPress Reset%s. i kullanabilirsiniz"
+
+#: inc/demo-importer/includes/class-widget-importer.php:203
+msgid "No Title"
+msgstr "Başlık yok"
+
+#: inc/demo-importer/includes/class-widget-importer.php:197
+msgid "Imported to Inactive"
+msgstr "Pasife aktarıldı"
+
+#: inc/demo-importer/includes/class-widget-importer.php:193
+msgid "Imported"
+msgstr "Aktarıldı"
+
+#: inc/demo-importer/includes/class-widget-importer.php:134
+msgid "Widget already exists"
+msgstr "Widget zaten var"
+
+#: inc/demo-importer/includes/class-widget-importer.php:99
+msgid "Site does not support widget"
+msgstr "Site widget desteklemiyor"
+
+#: inc/demo-importer/includes/class-widget-importer.php:77
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr "Yan panel temada yok(Widget pasifleştiriliyor)"
+
+#: inc/demo-importer/includes/class-widget-importer.php:39
+msgid "Widget import data could not be read. Please try a different file."
+msgstr "Widget bilgileri içeri aktarılamadı.Başka dosya deneyin"
+
+#: inc/demo-importer/includes/class-customizer-importer.php:45
+msgid "The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme."
+msgstr "Özelleştirici yedek  dosyası bu tema için uygun değil."
+
+#: inc/demo-importer/includes/class-customizer-importer.php:41
+msgid "The customizer import file is not in a correct format. Please make sure to use the correct customizer import file."
+msgstr "Yedek dosyası uygun formatta değil.Lütfen  dosyayı doğrulayın"
+
+#: inc/demo-importer/class-demo-importer.php:207
+msgid "The XML file containing the dummy content is not available."
+msgstr "XML dosyası içerikte mevcut değil"
+
+#: inc/demo-importer/class-demo-importer.php:167
+msgid "Successfully Imported"
+msgstr "Başarıyla aktarıldı"
+
+#: inc/demo-importer/class-demo-importer.php:106
+msgid "Importing demo content will replicate the live demo and overwrites your current customizer, widgets and other settings. It might take few minutes to complete the demo import. Are you sure you want to import this demo?"
+msgstr "İçeri aktarma demosu tüm verilerin üzerin yazıcak.Birkaç dakika sürecek devam edilsin mi?"
+
+#: inc/demo-importer/class-demo-importer.php:105
+msgid "Importing Failed. Try again!"
+msgstr "İçeri aktarma başarısız.Tekrar deneyin"
+
+#: inc/demo-importer/class-demo-importer.php:84
+#: inc/demo-importer/includes/views/html-admin-page-importer.php:14
+msgid "Demo Importer"
+msgstr "Demo içeri aktarıcı"
+
+#: inc/demo-data/demo-config.php:298
+msgid "ColorMag Pro Sports"
+msgstr "ColorMag Pro Spor"
+
+#: inc/demo-data/demo-config.php:200
+msgid "ColorMag Pro Technology"
+msgstr "ColorMag Pro Teknoloji"
+
+#: inc/demo-data/demo-config.php:113
+msgid "ColorMag Pro Fashion"
+msgstr "ColorMag Pro Moda"
+
+#: inc/functions.php:589 navigation.php:45
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/functions.php:588 navigation.php:44
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; için bir yorum"
+msgstr[1] "&ldquo;%2$s&rdquo; için %1$s yorum"
+
+#. Template Name of the plugin/theme
+msgid "Magazine Template"
+msgstr "Magazin teması"
+
+#. Template Name of the plugin/theme
+msgid "Contact Page Template"
+msgstr "İletişim sayfası şablonu"
+
+#. Description of the plugin/theme
+msgid "ColorMag Pro is the pro version of ColorMag free theme."
+msgstr "ColorMag Pro,ColorMag free  nin pro sürümüdür"
+
+#. Theme URI of the plugin/theme
+msgid "https://themegrill.com/themes/colormag/"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "ColorMag Pro"
+msgstr "ColorMag Pro"
+
+#: single.php:39
+msgid "See all posts by %1$s"
+msgstr "%1$s ile uyumlu tüm yazıları gör"
+
+#: single.php:39
+msgid "%1$s has %2$s posts and counting."
+msgstr "%1$s in%2$s yazısı var ve artmaya devam ediyor"
+
+#: sidebar.php:26
+msgid "Right"
+msgstr "Sağ"
+
+#: sidebar-left.php:31 sidebar.php:31
+msgid "This is an example widget to show how the %s Sidebar looks by default. You can add custom widgets from the %swidgets screen%s in the admin. If custom widgets is added than this will be replaced by those widgets."
+msgstr "Bu önerilen eklenti  ile %s nasıl gözüktüğünü göreceksiniz..Daha fazla araç ve özel araçlarınız  %swidgets screen%s adresini kullanın."
+
+#: sidebar-left.php:30 sidebar.php:30
+msgid "Example Widget"
+msgstr "Örnek Araç"
+
+#: sidebar-left.php:26
+msgid "Left"
+msgstr "So"
+
+#: sidebar-left.php:24 sidebar.php:24
+msgid "Contact Page"
+msgstr "İletişim sayfası"
+
+#: searchform.php:12
+msgid "Search"
+msgstr "Ara"
+
+#: no-results.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Maalesef istediğniz şey elimizde yok.Tekrar aramayı deneyin"
+
+#: no-results.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Aradğınız şeye uygun sonuç bulunamadı.Tekrar deneyin"
+
+#: no-results.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazının yayınlamaya hazırmısın? <a href=\"%1$s\">Buradan yazmaya başla </a>."
+
+#: navigation.php:25 navigation.php:37
+msgid "Next &rarr;"
+msgstr "Sonraki &rarr;"
+
+#: navigation.php:24 navigation.php:36
+msgid "&larr; Previous"
+msgstr "&larr; Önceki"
+
+#: license.php:421
+msgid "<b>Warning!</b> You're blocking external requests which means you won't be able to get %s updates. Please add %s to %s."
+msgstr "<b>Dikkat!</b> Dışardan gelen istekleri engelliyorsunuz %s Güncelemeleri alamazsınız.Almak için %s a ekleyin %s."
+
+#: license.php:402
+msgid "The License Key for Theme Colormag has not been activated, %sClick here%s to activate the license key."
+msgstr "Tema lisansı aktifleştrilmedi %sBuradan%s aktifleştirebilirsiniz"
+
+#: license.php:178
+msgid "License Deactivation"
+msgstr "Lisans pasifleştirme"
+
+#: license.php:177
+msgid "License Activation"
+msgstr "Lisans aktifleştirme"
+
+#: license.php:127 license.php:136
+msgid "Cheatin&#8217; huh?"
+msgstr "Hile mi yapıyorsun?"
+
+#: inc/widgets/widgets.php:3106
+msgid "TG: Featured Posts (Style 3)"
+msgstr "TG: Öne çıkan yazılar (Stil 3)"
+
+#: inc/widgets/widgets.php:2896
+msgid "Check to display the content in the popup"
+msgstr "Penceredeki içeriği görmek için işaretle"
+
+#: inc/widgets/widgets.php:2850
+msgid "TG: Featured Posts (Style 7)"
+msgstr "TG: Öne çıkan yazılar (Stil 7)"
+
+#: inc/widgets/widgets.php:2742
+msgid "Number of recent posts to show as the breaking news:"
+msgstr "Kaç adet yazı son yazılarda gösterilsin"
+
+#: inc/widgets/widgets.php:2727
+msgid "TG: Breaking News Widget"
+msgstr "TG: Son dakika widget ı"
+
+#: inc/widgets/widgets.php:2725
+msgid "Displays the breaking news in the news ticker way. Suitable for the Right/Left Sidebar"
+msgstr "Son dakikayı daha ince göster(Yan paneller için uygun)"
+
+#: inc/widgets/widgets.php:2485
+msgid "TG: Featured Posts (Style 6)"
+msgstr "TG: Öne çıkan yazılar (Stil 6)"
+
+#: inc/widgets/widgets.php:2378
+msgid "Number of random posts to display:"
+msgstr "Rastgele gösterilcek yazı sayısı"
+
+#: inc/widgets/widgets.php:2363
+msgid "TG: Random Posts Widget"
+msgstr "TG: Rastgele yazılar bileşeni"
+
+#: inc/widgets/widgets.php:2361
+msgid "Displays the random posts from your site. Suitable for the Right/Left sidebar."
+msgstr "Siteden rastgele yazı göster(Yan panel için)"
+
+#: inc/widgets/widgets.php:2342
+msgid "No comments"
+msgstr "Yorum yok"
+
+#: inc/widgets/widgets.php:2339
+msgid "says:"
+msgstr "diyorki:"
+
+#: inc/widgets/widgets.php:2260 inc/widgets/widgets.php:2458
+#: inc/widgets/widgets.php:2823
+msgid "% Comments"
+msgstr "% yorum"
+
+#: inc/widgets/widgets.php:2260 inc/widgets/widgets.php:2458
+#: inc/widgets/widgets.php:2823
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: inc/widgets/widgets.php:2260 inc/widgets/widgets.php:2458
+#: inc/widgets/widgets.php:2823
+msgid "No Comment"
+msgstr "Yorum yok"
+
+#: inc/widgets/widgets.php:2195
+msgid "<i class=\"fa fa-comment\"></i>Comment"
+msgstr "<i class=\"fa fa-comment\"></i>Yorum"
+
+#: inc/widgets/widgets.php:2194
+msgid "<i class=\"fa fa-history\"></i>Recent"
+msgstr "<i class=\"fa fa-history\"></i>Yeni"
+
+#: inc/widgets/widgets.php:2193
+msgid "<i class=\"fa fa-star\"></i>Popular"
+msgstr "<i class=\"fa fa-star\"></i>Popüler"
+
+#: inc/widgets/widgets.php:2164
+msgid "Check to enable the popular post by view count."
+msgstr "Popüler yazılarda sayacı aktifleştirmek için seç"
+
+#: inc/widgets/widgets.php:2158
+msgid "Number of popular posts, recent posts and comments to display:"
+msgstr "Kaç adet popüler yazı,yeni yazı ve yorum gösterisin"
+
+#: inc/widgets/widgets.php:2147
+msgid "TG: Tabbed Widget"
+msgstr "TG: Sekmeli bileşen"
+
+#: inc/widgets/widgets.php:2145
+msgid "Displays the popular posts, latest posts and the recent comments in tab. Suitable for the Right/Left sidebar."
+msgstr "Popüler yazı,yen, yazı ve yeni yorumları pencerede göster.Yan paneller için  uygun"
+
+#: inc/widgets/widgets.php:1900
+msgid "TG: Featured Posts (Style 4)"
+msgstr "TG: Öne çıkan yazılar (Stil 4)"
+
+#: inc/widgets/widgets.php:1680
+msgid "Check not to have the slider effect for this widget"
+msgstr "Kaydırma efektini kapatmak için tıkla"
+
+#: inc/widgets/widgets.php:1634
+msgid "TG: Featured Posts (Style 5)"
+msgstr "TG: Öne çıkan yazılar (Stil 5)"
+
+#: inc/widgets/widgets.php:1573
+msgid "Vimeo Video ID:"
+msgstr "Vimeo Video ID:"
+
+#: inc/widgets/widgets.php:1569
+msgid "Youtube Video ID:"
+msgstr "Youtube Video ID:"
+
+#: inc/widgets/widgets.php:1550
+msgid "TG: Videos"
+msgstr "TG: Videolar"
+
+#: inc/widgets/widgets.php:1548
+msgid "Add the videos here, Youtube and Vimeo Videos is only accepted for now."
+msgstr "Videonuzu buraya ekleyin.Youtube ve Vimeo desteklenmekte"
+
+#: inc/widgets/widgets.php:1434
+msgid "Add your Advertisement 125x125 Images Here"
+msgstr "125x125 reklam remini buraya ekle"
+
+#: inc/widgets/widgets.php:1415
+msgid "TG: 125x125 Advertisement"
+msgstr "TG: 125x125 Reklam"
+
+#: inc/widgets/widgets.php:1413
+msgid "Add your 125x125 Advertisement here"
+msgstr "125x125 reklamı buraya ekle"
+
+#: inc/widgets/widgets.php:1321
+msgid "Add your Advertisement 728x90 Images Here"
+msgstr "728x90 Reklam resmi buraya ekle"
+
+#: inc/widgets/widgets.php:1302
+msgid "TG: 728x90 Advertisement"
+msgstr "TG: 728x90 Reklam"
+
+#: inc/widgets/widgets.php:1300
+msgid "Add your 728x90 Advertisement here"
+msgstr "798x90 lık reklamını buraya ekle"
+
+#: inc/widgets/widgets.php:1214 inc/widgets/widgets.php:1327
+#: inc/widgets/widgets.php:1445
+msgid "Advertisement Image "
+msgstr "Reklam resmi"
+
+#: inc/widgets/widgets.php:1210 inc/widgets/widgets.php:1323
+#: inc/widgets/widgets.php:1441
+msgid "Advertisement Image Link "
+msgstr "Reklam resiminin adresi"
+
+#: inc/widgets/widgets.php:1208
+msgid "Add your Advertisement 300x250 Images Here"
+msgstr " 300x250 Reklam resmini buraya ekle"
+
+#: inc/widgets/widgets.php:1189
+msgid "TG: 300x250 Advertisement"
+msgstr "TG: 300x250 Reklam"
+
+#: inc/widgets/widgets.php:1187
+msgid "Add your 300x250 Advertisement here"
+msgstr "300x250 lik reklam ekle"
+
+#: inc/widgets/widgets.php:934
+msgid "TG: Featured Posts (Style 2)"
+msgstr "TG: Featured Posts (Style 2)"
+
+#: inc/widgets/widgets.php:709 inc/widgets/widgets.php:962
+#: inc/widgets/widgets.php:1664 inc/widgets/widgets.php:1928
+#: inc/widgets/widgets.php:2513 inc/widgets/widgets.php:2880
+#: inc/widgets/widgets.php:3134
+msgid "Description"
+msgstr "Açıklama:"
+
+#: inc/widgets/widgets.php:706 inc/widgets/widgets.php:959
+#: inc/widgets/widgets.php:1205 inc/widgets/widgets.php:1318
+#: inc/widgets/widgets.php:1431 inc/widgets/widgets.php:1565
+#: inc/widgets/widgets.php:1661 inc/widgets/widgets.php:1925
+#: inc/widgets/widgets.php:2374 inc/widgets/widgets.php:2510
+#: inc/widgets/widgets.php:2738 inc/widgets/widgets.php:2877
+#: inc/widgets/widgets.php:3131
+msgid "Title:"
+msgstr "Başlık:"
+
+#: inc/widgets/widgets.php:703 inc/widgets/widgets.php:956
+#: inc/widgets/widgets.php:1658 inc/widgets/widgets.php:1922
+#: inc/widgets/widgets.php:2507 inc/widgets/widgets.php:2874
+#: inc/widgets/widgets.php:3128
+msgid "Layout will be as below:"
+msgstr "Düzen böyle olsun"
+
+#: inc/widgets/widgets.php:681
+msgid "TG: Featured Posts (Style 1)"
+msgstr "TG: Featured Posts (Style 1)"
+
+#: inc/widgets/widgets.php:679 inc/widgets/widgets.php:932
+#: inc/widgets/widgets.php:1632 inc/widgets/widgets.php:1898
+#: inc/widgets/widgets.php:2483 inc/widgets/widgets.php:2848
+#: inc/widgets/widgets.php:3104
+msgid "Display latest posts or posts of specific category."
+msgstr "Kategorinin son yazılarını göster"
+
+#: inc/widgets/widgets.php:485
+msgid "TG: Highligted Posts"
+msgstr "TG: Highligted Posts"
+
+#: inc/widgets/widgets.php:483
+msgid "Display latest posts or posts of specific category. Suitable for the Area Beside Slider Sidebar."
+msgstr "Son yazıları veya kategorinin son yazılarını göster"
+
+#: inc/widgets/widgets.php:300
+msgid "Image Size large (1400X600 pixels, suitable for Front Page: Top Full Width Area)"
+msgstr "Resim büyüklüğü(1400x600px,Ön sayfa için uygundur)"
+
+#: inc/widgets/widgets.php:299
+msgid "Image Size medium (800X445 pixels)"
+msgstr "Orta resim büyüklüğü(8000x455px)"
+
+#: inc/widgets/widgets.php:298
+msgid "Image Size:"
+msgstr "Resim büyüklüğü:"
+
+#: inc/widgets/widgets.php:295 inc/widgets/widgets.php:510
+#: inc/widgets/widgets.php:720 inc/widgets/widgets.php:973
+#: inc/widgets/widgets.php:1675 inc/widgets/widgets.php:1939
+#: inc/widgets/widgets.php:2524 inc/widgets/widgets.php:2891
+#: inc/widgets/widgets.php:3145
+msgid "Select category"
+msgstr "Kategori seç"
+
+#: inc/widgets/widgets.php:292 inc/widgets/widgets.php:507
+#: inc/widgets/widgets.php:717 inc/widgets/widgets.php:970
+#: inc/widgets/widgets.php:1672 inc/widgets/widgets.php:1936
+#: inc/widgets/widgets.php:2521 inc/widgets/widgets.php:2888
+#: inc/widgets/widgets.php:3142
+msgid "Show posts from a category"
+msgstr "Kategoriden son yazıları göster"
+
+#: inc/widgets/widgets.php:291 inc/widgets/widgets.php:506
+#: inc/widgets/widgets.php:716 inc/widgets/widgets.php:969
+#: inc/widgets/widgets.php:1671 inc/widgets/widgets.php:1935
+#: inc/widgets/widgets.php:2520 inc/widgets/widgets.php:2887
+#: inc/widgets/widgets.php:3141
+msgid "Show latest Posts"
+msgstr "Son yazıları göster"
+
+#: inc/widgets/widgets.php:287 inc/widgets/widgets.php:502
+#: inc/widgets/widgets.php:712 inc/widgets/widgets.php:965
+#: inc/widgets/widgets.php:1667 inc/widgets/widgets.php:1931
+#: inc/widgets/widgets.php:2516 inc/widgets/widgets.php:2883
+#: inc/widgets/widgets.php:3137
+msgid "Number of posts to display:"
+msgstr "Gösterilecek yazı sayısı"
+
+#: inc/widgets/widgets.php:268
+msgid "TG: Featured Category Slider"
+msgstr "TG: Featured Category Slider"
+
+#: inc/widgets/widgets.php:266
+msgid "Display latest posts or posts of specific category, which will be used as the slider."
+msgstr "Slider ile son yazıları veya kategoriye özel yazıları göster"
+
+#: inc/widgets/widgets.php:232
+msgid "Shows widgets at footer sidebar four."
+msgstr "Araçları Alt kısım panel 4 de göster"
+
+#: inc/widgets/widgets.php:230
+msgid "Footer Sidebar Four ( Lower )"
+msgstr "Footer paneli 4 (alt)"
+
+#: inc/widgets/widgets.php:221
+msgid "Shows widgets at footer sidebar three."
+msgstr "Araçları Alt kısım panel 3 de göster"
+
+#: inc/widgets/widgets.php:219
+msgid "Footer Sidebar Three ( Lower )"
+msgstr "Footer Yanpanel 3 ( Alt )"
+
+#: inc/widgets/widgets.php:210
+msgid "Shows widgets at footer sidebar two."
+msgstr "Araçları Alt kısım panel 2 de göster"
+
+#: inc/widgets/widgets.php:208
+msgid "Footer Sidebar Two ( Lower )"
+msgstr "Footer Yanpanel 2 (Alt)"
+
+#: inc/widgets/widgets.php:199
+msgid "Shows widgets at footer sidebar one."
+msgstr "Araçları Alt kısım panel 1 de göster"
+
+#: inc/widgets/widgets.php:197
+msgid "Footer Sidebar One ( Lower )"
+msgstr "Footer Yanpanel 1 (Alt)"
+
+#: inc/widgets/widgets.php:188
+msgid "Shows widgets at footer sidebar three in upper."
+msgstr "Widgetları footer 3 yanpanelin üstünde göster"
+
+#: inc/widgets/widgets.php:186
+msgid "Footer Sidebar Three ( Upper )"
+msgstr "Footer yanpanel 3 (üst)"
+
+#: inc/widgets/widgets.php:177
+msgid "Shows widgets at footer sidebar two in upper."
+msgstr "Widgetları footer 2 de üstte göster"
+
+#: inc/widgets/widgets.php:175
+msgid "Footer Sidebar Two ( Upper )"
+msgstr "Footer yanpanel 2 (üst)"
+
+#: inc/widgets/widgets.php:166
+msgid "Shows widgets at footer sidebar one in upper."
+msgstr "Widgetları footer 1 de üstte göster"
+
+#: inc/widgets/widgets.php:164
+msgid "Footer Sidebar One ( Upper )"
+msgstr "Footer yanpanel 1 (üst)"
+
+#: inc/widgets/widgets.php:155
+msgid "Shows widgets Just Above The Footer, suitable for TG: 728x90 widget."
+msgstr "Alt kısmın üstündeki araçlar.Önerilen araç TG: 728x90 "
+
+#: inc/widgets/widgets.php:153
+msgid "Advertisement Above The Footer"
+msgstr "Alt kısmın üstündeki reklamlar"
+
+#: inc/widgets/widgets.php:144
+msgid "Shows widgets on Error 404 page."
+msgstr "Araçları 404 hata sayfasında göster"
+
+#: inc/widgets/widgets.php:142
+msgid "Error 404 Page Sidebar"
+msgstr "404 hata sayfası paneli"
+
+#: inc/widgets/widgets.php:133
+msgid "Shows widgets on Contact Page Template."
+msgstr "Araçları iletişim temasında göster"
+
+#: inc/widgets/widgets.php:131
+msgid "Contact Page Sidebar"
+msgstr "İletişim alanı paneli"
+
+#: inc/widgets/widgets.php:122
+msgid "Content Middle Bottom Section"
+msgstr "Ön sayfa:İçerik alt alanı"
+
+#: inc/widgets/widgets.php:120
+msgid "Front Page: Content Bottom Section"
+msgstr "Ön sayfa:İçerik altı"
+
+#: inc/widgets/widgets.php:111
+msgid "Content Middle Right Section"
+msgstr "Ön sayfa:Orta sağ"
+
+#: inc/widgets/widgets.php:109
+msgid "Front Page: Content Middle Right Section"
+msgstr "Ön sayfa:Orta sağ alan"
+
+#: inc/widgets/widgets.php:100
+msgid "Content Middle Left Section"
+msgstr "Ön sayfa:Orta sol"
+
+#: inc/widgets/widgets.php:98
+msgid "Front Page: Content Middle Left Section"
+msgstr "Ön sayfa:Orta sol alan"
+
+#: inc/widgets/widgets.php:89
+msgid "Content Top Section"
+msgstr "İçerik üst alanı"
+
+#: inc/widgets/widgets.php:87
+msgid "Front Page: Content Top Section"
+msgstr "Ön Sayfa;İçerik üstü"
+
+#: inc/widgets/widgets.php:78
+msgid "Show widget beside the slider. Suitable for TG: Highlighted Posts."
+msgstr "Slider yanına önerilen araç TG: Highlighted Posts."
+
+#: inc/widgets/widgets.php:76
+msgid "Front Page: Area beside slider"
+msgstr "Ön sayfa ; Slider yanı"
+
+#: inc/widgets/widgets.php:67
+msgid "Show widget just below menu. Suitable for TG: Featured Cat Slider."
+msgstr "Önerilen araç TG: Featured Cat Slider."
+
+#: inc/widgets/widgets.php:65
+msgid "Front Page: Slider Area"
+msgstr "Ön sayfa;Slider bölümü"
+
+#: inc/widgets/widgets.php:56
+msgid "Show widget just below menu."
+msgstr "Widgetları menünün altında göster"
+
+#: inc/widgets/widgets.php:54
+msgid "Front Page: Top Full Width Area"
+msgstr "Ön sayfa:Genişliği kapla"
+
+#: inc/widgets/widgets.php:45
+msgid "Shows widgets in header section just above the main navigation menu."
+msgstr "Araçları navigasyon menüsünün üstünde göster"
+
+#: inc/widgets/widgets.php:43
+msgid "Header Sidebar"
+msgstr "Üst taraftaki araçlar"
+
+#: inc/widgets/widgets.php:34
+msgid "Shows widgets at Left side."
+msgstr "Araçları solda göster"
+
+#: inc/widgets/widgets.php:23
+msgid "Shows widgets at Right side."
+msgstr "Araçları sağda göster"
+
+#: inc/share.php:6
+msgid "Pin It"
+msgstr "Pin'le"
+
+#: inc/share.php:5
+msgid "+1 This"
+msgstr "+1 le"
+
+#: inc/share.php:4
+msgid "Like This"
+msgstr "Beğen"
+
+#: inc/share.php:3
+msgid "Tweet This"
+msgstr "Twettle"
+
+#: inc/share.php:2
+msgid "Share This Post:"
+msgstr "Yazıyı paylaş:"
+
+#: inc/related-posts.php:5
+msgid "You May Also Like"
+msgstr "İlginizi çekebilir"
+
+#. Author of the plugin/theme
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#: inc/functions.php:1226
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/functions.php:1109
+msgid "Youtube"
+msgstr "Youtube"
+
+#: inc/functions.php:1079
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/functions.php:1064
+msgid "User Social Links"
+msgstr "Kullanıcı sosyal linkleri"
+
+#: inc/functions.php:1047
+msgid "Total Views"
+msgstr "Toplam gösterim"
+
+#: inc/functions.php:1025
+msgid "%s Views"
+msgstr "%s Görüntüleme"
+
+#: inc/functions.php:1023
+msgid "0 View"
+msgstr "0 Görüntüleme"
+
+#: inc/functions.php:950
+msgid "Video URL"
+msgstr "Video URL"
+
+#: inc/functions.php:798
+msgid "View a random post"
+msgstr "Rastgele yazı gör"
+
+#: inc/functions.php:655
+msgid "Reply"
+msgstr "Cevapla"
+
+#: inc/functions.php:650
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz onay bekliyor"
+
+#: inc/functions.php:642
+msgid "%1$s at %2$s"
+msgstr "%1$s de %2$s"
+
+#: inc/functions.php:639
+msgid "Post author"
+msgstr "Yazar"
+
+#: inc/functions.php:624
+msgid "(Edit)"
+msgstr "(Düzenle)"
+
+#: inc/functions.php:624
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/functions.php:598
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Yeni yazılar<span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/functions.php:594
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Eski yazılar"
+
+#: inc/functions.php:584
+msgid "Post navigation"
+msgstr "Yazı navigasyonu"
+
+#: inc/functions.php:304
+msgid "Edit"
+msgstr "Düzenle"
+
+#: inc/functions.php:299
+msgid ", "
+msgstr ","
+
+#: inc/functions.php:297
+msgid "<i class=\"fa fa-comments\"></i> % Comments"
+msgstr "<i class=\"fa fa-comments\"></i> % yorum"
+
+#: inc/functions.php:297
+msgid "<i class=\"fa fa-comment\"></i> 1 Comment"
+msgstr "<i class=\"fa fa-comment\"></i> 1 Yorum"
+
+#: inc/functions.php:297
+msgid "<i class=\"fa fa-comment\"></i> 0 Comment"
+msgstr "<i class=\"fa fa-comment\"></i> 0 Yorum"
+
+#: inc/functions.php:283 inc/related-posts.php:33 inc/widgets/widgets.php:453
+#: inc/widgets/widgets.php:650 inc/widgets/widgets.php:896
+#: inc/widgets/widgets.php:1149 inc/widgets/widgets.php:1867
+#: inc/widgets/widgets.php:2114 inc/widgets/widgets.php:2253
+#: inc/widgets/widgets.php:2312 inc/widgets/widgets.php:2451
+#: inc/widgets/widgets.php:2816 inc/widgets/widgets.php:3322
+msgid "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><i class=\"fa fa-calendar-o\"></i> %3$s</a></span>"
+msgstr "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><i class=\"fa fa-calendar-o\"></i> %3$s</a></span>"
+
+#: inc/customizer.php:1920
+msgid "Footer copyright part background color."
+msgstr "Footer copyright ve arkaplan rengi."
+
+#: inc/customizer.php:1915
+msgid "Footer small menu text color."
+msgstr "Footer küçük menu metin rengi."
+
+#: inc/customizer.php:1910
+msgid "Footer copyright link text color."
+msgstr "Footer copyright link metin rengi."
+
+#: inc/customizer.php:1905
+msgid "Footer copyright text color."
+msgstr "Footer copyright metin rengi"
+
+#: inc/customizer.php:1900
+msgid "Footer widget background color."
+msgstr "Footer widget arkaplan rengi"
+
+#: inc/customizer.php:1895
+msgid "Footer widget content link text color."
+msgstr "Footer widget içerik linkinin metin rengi"
+
+#: inc/customizer.php:1890
+msgid "Footer widget content color."
+msgstr "Footer widget içerik rengi"
+
+#: inc/customizer.php:1885
+msgid "Widget title color."
+msgstr "Widget başlık rengi"
+
+#: inc/customizer.php:1878
+msgid "Footer part color options"
+msgstr "Footer alanı renkleri"
+
+#: inc/customizer.php:1850
+msgid "Content section background color."
+msgstr "İçerik alanı arkaplanı rengi"
+
+#: inc/customizer.php:1845
+msgid "Sidebar widget title color."
+msgstr "Yanpanel widget başlık rengi"
+
+#: inc/customizer.php:1840
+msgid "Button background color."
+msgstr "Buton arkaplan rengi"
+
+#: inc/customizer.php:1835
+msgid "Button text color."
+msgstr "Buton metin rengi"
+
+#: inc/customizer.php:1830
+msgid "Post meta color."
+msgstr "Yazı metası rengi"
+
+#: inc/customizer.php:1825
+msgid "Content text color."
+msgstr "İçerik metni rengi"
+
+#: inc/customizer.php:1820
+msgid "Page title color."
+msgstr "Sayfa başlığı rengi"
+
+#: inc/customizer.php:1815
+msgid "Posts title color."
+msgstr "Yazıların başlık rengi"
+
+#: inc/customizer.php:1810
+msgid "Content Part titles color (like h1, h2 in content section)."
+msgstr "İçerik alanlarının başlığı rengi(H1 ve H2 gibi)"
+
+#: inc/customizer.php:1803
+msgid "Content part color options"
+msgstr "İçerik alanının renkleri"
+
+#: inc/customizer.php:1775
+msgid "Header background color."
+msgstr "Header arkaplan rengi"
+
+#: inc/customizer.php:1770
+msgid "Primary menu selected/hovered item color."
+msgstr "Birincil menü seçilmiş/vurgulanmış item rengi"
+
+#: inc/customizer.php:1765
+msgid "Primary menu text color."
+msgstr "Birincil menü metin rengi"
+
+#: inc/customizer.php:1760
+msgid "Site Tagline."
+msgstr "Site etiketleri."
+
+#: inc/customizer.php:1755
+msgid "Site Title."
+msgstr "Site başlığı"
+
+#: inc/customizer.php:1748
+msgid "Header Color Options"
+msgstr "Header renk ayarı"
+
+#: inc/customizer.php:1742
+msgid "Change the Color Settings from here as you want"
+msgstr "Renk ayarlarını buradan isteğine göre değiştir"
+
+#: inc/customizer.php:1740
+msgid "Color Options"
+msgstr "Renk seçenekleri"
+
+#: inc/customizer.php:1730
+msgid "Footer small menu. Default is 14px"
+msgstr "Footer küçük menü:Varsayılan 14px"
+
+#: inc/customizer.php:1715
+msgid "Footer copyright text font size. Default is 14px"
+msgstr "Footer copyright metninin büyüklüğü (14px varsayılan)"
+
+#: inc/customizer.php:1700
+msgid "Footer widget content font size. Default is 14px"
+msgstr "Footer widget içeriğinin metin büyüklüğü.Varsayılan 14px"
+
+#: inc/customizer.php:1685
+msgid "Footer widget Titles. Default is 15px"
+msgstr "Footer widget başlık. Varsayılan15px"
+
+#: inc/customizer.php:1672
+msgid "Footer font size options"
+msgstr "Footer metin büyüklük ayarları"
+
+#: inc/customizer.php:1663
+msgid "Button text font size (Buttons like Read more, submit, post comment etc). Default is 12px"
+msgstr "Buton metin büyüklüğü(Daha fazka oku ,gönder gibi) 12px varsayılan"
+
+#: inc/customizer.php:1648
+msgid "Post meta font size. Default is 12px"
+msgstr "Yazı metası metin büyüklüğü.   12 px varsayılan"
+
+#: inc/customizer.php:1633
+msgid "Content font size, also applies to other text like in search fields, post comment button etc. Default is 18px"
+msgstr "İçerik metin büyüklüğü.ayrıca arama alanı ve yorumu gönder gibi yerleri etkiler  18 px varsayılan"
+
+#: inc/customizer.php:1620
+msgid "Content font size options"
+msgstr "İçerik metin büyüklüğü ayarları"
+
+#: inc/customizer.php:1611
+msgid "Comment Title. Default is 22px"
+msgstr "Yorum başlığı.22 px varsayılan"
+
+#: inc/customizer.php:1596
+msgid "Widget Title. Default is 18px"
+msgstr "Widget başlığı.18 px varsayılan"
+
+#: inc/customizer.php:1581
+msgid "Page Title. Default is 34px"
+msgstr "Sayfa başlığı.Varsayılan 34px"
+
+#: inc/customizer.php:1566
+msgid "Post Title. Default is 32px"
+msgstr "Yazı başlığı.Varsayılan 32px"
+
+#: inc/customizer.php:1551
+msgid "Heading h6 tag. Default is 22px"
+msgstr "Başlık h6 etiketi.Varsayılan px22"
+
+#: inc/customizer.php:1536
+msgid "Heading h5 tag. Default is 26px"
+msgstr "Başlık h5 etiketi.Varsayılan px26"
+
+#: inc/customizer.php:1521
+msgid "Heading h4 tag. Default is 30px"
+msgstr "Başlık h4 etiketi.Varsayılan px30"
+
+#: inc/customizer.php:1506
+msgid "Heading h3 tag. Default is 34px"
+msgstr "Başlık h3 etiketi.Varsayılan px34"
+
+#: inc/customizer.php:1491
+msgid "Heading h2 tag. Default is 38px"
+msgstr "Başlık h2 etiketi.Varsayılan px38"
+
+#: inc/customizer.php:1476
+msgid "Heading h1 tag. Default is 42px"
+msgstr "Başlık h1 etiketi.Varsayılan px42"
+
+#: inc/customizer.php:1463
+msgid "Titles related font size options"
+msgstr "Başlık alakalı yazı büyüklüğü ayarı"
+
+#: inc/customizer.php:1454
+msgid "Primary sub menu. Default is 14px"
+msgstr "Birincil alt menü.Varsayılan px14"
+
+#: inc/customizer.php:1439
+msgid "Primary menu. Default is 14px"
+msgstr "Birincil menü.Varsayılan px14"
+
+#: inc/customizer.php:1424
+msgid "Site tagline font size. Default is 16px"
+msgstr "Site etiketleri metin büyüklüğü.Varsayılan px16"
+
+#: inc/customizer.php:1409
+msgid "Site title font size. Default is 46px"
+msgstr "Site başlık yazı büyüklüğü.Varsayılan px46"
+
+#: inc/customizer.php:1396
+msgid "Header font size Options"
+msgstr "Header yazı büyüklüğü ayarı"
+
+#: inc/customizer.php:1365
+msgid "Content font and for others. Default is \"Open Sans\""
+msgstr "İçerik yazı tipi ve diğerleri için.Varsayılan Open Sans"
+
+#: inc/customizer.php:1360
+msgid "All Titles font. Default is \"Open Sans\""
+msgstr "Tüm başlık fontu.Open sans varsayılandır"
+
+#: inc/customizer.php:1355
+msgid "Primary menu font. Default is \"Open Sans\""
+msgstr "Birincil menü yazıtipi .Open sans varsayılandır"
+
+#: inc/customizer.php:1350
+msgid "Site tagline font. Default is \"Open Sans\""
+msgstr "Site etkikerleri.Open sans varsayılandır"
+
+#: inc/customizer.php:1345
+msgid "Site title font. Default is \"Open Sans\""
+msgstr "Site başlık yazıtipi..Open sans varsayılandır"
+
+#: inc/customizer.php:1337
+msgid "Google Font Options"
+msgstr "Google yazıtipi ayarları"
+
+#: inc/customizer.php:1330
+msgid "Change the Typography Settings from here as you want"
+msgstr "Yazım ayarlarını isteğinize göre değiştirin"
+
+#: inc/customizer.php:1329
+msgid "Typography Options"
+msgstr "Yazım ayarları"
+
+#: inc/customizer.php:1318
+msgid "%s"
+msgstr "%s"
+
+#: inc/customizer.php:1296
+msgid "Category Color Settings"
+msgstr "Kategori renk ayarları"
+
+#: inc/customizer.php:1291
+msgid "Change the color of each category items as you want."
+msgstr "Her kategorinin resmini seçin"
+
+#: inc/customizer.php:1289
+msgid "Category Color Options"
+msgstr "Kategori renk ayarları"
+
+#: inc/customizer.php:1280
+msgid "Edit the Copyright information in your footer. You can also use shortcodes [the-year], [site-link], [wp-link], [tg-link] for current year, your site link, WordPress site link and ThemeGrill site link respectively."
+msgstr "Copyright bilgilerini düzenleyebilirsiniz. [the-year], [site-link], [wp-link], [tg-link] gibi kısa kodlar kullanılabilir"
+
+#: inc/customizer.php:1271 inc/functions.php:1244
+msgid "Powered by "
+msgstr "Altyapı"
+
+#: inc/customizer.php:1271 inc/functions.php:1244
+msgid "Theme: ColorMag Pro by "
+msgstr "Tema:ColorMag Pro üretici"
+
+#: inc/customizer.php:1271 inc/functions.php:1244
+msgid "Copyright &copy; "
+msgstr "Copyright &copy; "
+
+#: inc/customizer.php:1267
+msgid "Footer Copyright Editor"
+msgstr "Alt alan hak bildirimi düzenleyici"
+
+#: inc/customizer.php:1244
+msgid "Check to disable the scroll to top button."
+msgstr "Yukarı kaydırma butonunu gizlemek için seç"
+
+#: inc/customizer.php:1232
+msgid "Scroll To Top Button"
+msgstr "Yukarı kaydır butonu"
+
+#: inc/customizer.php:1224
+msgid "Check to display the link to the author page in the Author Bio section"
+msgstr "Yazar Bio sunda yazarın sayfasına link göster"
+
+#: inc/customizer.php:1212
+msgid "Author URL In Author Bio"
+msgstr "Yazar biosundaki yazar adresi"
+
+#: inc/customizer.php:1204
+msgid "Check to show the Social Profiles in the Author Bio"
+msgstr "Sosyal profili yazar biosunda göster"
+
+#: inc/customizer.php:1192
+msgid "Social Profiles in Author Bio"
+msgstr "Yazar biosunda sosyal profiller"
+
+#: inc/customizer.php:1184
+msgid "Check to enable the lightbox for the featured images in single post"
+msgstr "Lightbox u resimlerde  etkinleştirmek için tıkla"
+
+#: inc/customizer.php:1172
+msgid "Image Lightbox"
+msgstr "Resim lightbox"
+
+#: inc/customizer.php:1164
+msgid "Check to activate social share buttons in single post"
+msgstr "Tek yazıılarda paylaşım butonlarını aktifleştirmek için seç"
+
+#: inc/customizer.php:1152
+msgid "Social Share Button"
+msgstr "Sosyal paylaşım butonu"
+
+#: inc/customizer.php:1144
+msgid "Change the Read more text as required for your site."
+msgstr "Daha fazla oku metnini isteğine göre değiştir"
+
+#: inc/customizer.php:1133
+msgid "Change Read More Text"
+msgstr "Daha fazla oku metnini değiştirin"
+
+#: inc/customizer.php:1125
+msgid "Disable the edit button only in post meta section."
+msgstr "Sadece yazı alanında düzenle butonunu pasifleştir"
+
+#: inc/customizer.php:1111
+msgid "Disable the post view only in post meta section."
+msgstr "Sadece yazı alanında sadece yazıyı gösteri pasifleştir"
+
+#: inc/customizer.php:1097
+msgid "Disable the tags only in post meta section."
+msgstr "Sadece yazı alanında etiketleri pasifleştir"
+
+#: inc/customizer.php:1083
+msgid "Disable the comments only in post meta section."
+msgstr "Sadece yazı alanında sadece yorumları pasifleştir"
+
+#: inc/customizer.php:1069
+msgid "Disable the category only in post meta section."
+msgstr "Sadece yazı alanında kategoriyi pasifleştir"
+
+#: inc/customizer.php:1055
+msgid "Disable the date only in post meta section."
+msgstr "Sadece yazı alanında tarihi pasifleştir"
+
+#: inc/customizer.php:1041
+msgid "Disable the author only in post meta section."
+msgstr "Sadece yazı alanında yazarı pasifleştir"
+
+#: inc/customizer.php:1027
+msgid "Disable the post meta for the post totally, ie, remove all of the meta data."
+msgstr "Yazı bilgilerini yazılardan komple pasifleştir.Mesela tüm meta verileri kaldır"
+
+#: inc/customizer.php:1014
+msgid "Post Meta Display"
+msgstr "Yazı meta görüntüleme"
+
+#: inc/customizer.php:1007
+msgid "Related Posts By Tags"
+msgstr "İlgili yazılar etiketlere göre"
+
+#: inc/customizer.php:1006
+msgid "Related Posts By Categories"
+msgstr "İlgili yazılar kategoriye göre"
+
+#: inc/customizer.php:1002
+msgid "Related Posts Must Be Shown As:"
+msgstr "İlgili yazılar söyle gözükür;"
+
+#: inc/customizer.php:989
+msgid "Check to activate the related posts"
+msgstr "İlgili yazıları aktifleştir"
+
+#: inc/customizer.php:977
+msgid "Related Posts"
+msgstr "İlgili yazılar"
+
+#: inc/customizer.php:968
+msgid "Upload favicon for your site"
+msgstr "Favicon u yükle"
+
+#: inc/customizer.php:956
+msgid "Check to activate favicon. Upload favicon from below option"
+msgstr "Favicon u aktifleştirmek için tıkla"
+
+#: inc/customizer.php:944
+msgid "Activate favicon"
+msgstr "Favicon u aktifleştir"
+
+#: inc/customizer.php:915
+msgid "Check to activate the unique post system for the bundled widgets"
+msgstr "Eşsiz yazı sistemini entegre widgetlar için aktifleştir"
+
+#: inc/customizer.php:903
+msgid "Unique Post System"
+msgstr "Eşsiz yazı sistemi"
+
+#: inc/customizer.php:897
+msgid "Additional Options"
+msgstr "Ekstra ayarlar"
+
+#: inc/customizer.php:895
+msgid "Change the Additional Settings from here as you want"
+msgstr "Ekstra ayarları buradan isteğinize göre değiştirin"
+
+#: inc/customizer.php:868
+msgid "Preferred Social Link Color Option"
+msgstr "Tercih edilen sosyal link renk ayarları"
+
+#: inc/customizer.php:854
+msgid "Preferred Social Link FontAwesome Icon"
+msgstr "Tercih edilen Sosyal link FontAwesome ikonu"
+
+#: inc/customizer.php:827
+msgid "Additional Social Icons"
+msgstr "Ekstra sosyal ikonlar"
+
+#: inc/customizer.php:820 inc/header-functions.php:48
+msgid "Additional Social Link Six"
+msgstr "Ekstra sosyal link 6"
+
+#: inc/customizer.php:815 inc/header-functions.php:47
+msgid "Additional Social Link Five"
+msgstr "Ekstra sosyal link 5"
+
+#: inc/customizer.php:810 inc/header-functions.php:46
+msgid "Additional Social Link Four"
+msgstr "Ekstra sosyal link 4"
+
+#: inc/customizer.php:805 inc/header-functions.php:45
+msgid "Additional Social Link Three"
+msgstr "Ekstra sosyal link 3"
+
+#: inc/customizer.php:800 inc/header-functions.php:44
+msgid "Additional Social Link Two"
+msgstr "Ekstra sosyal link 2"
+
+#: inc/customizer.php:795 inc/header-functions.php:43
+msgid "Additional Social Link One"
+msgstr "Ekstra sosyal link 1"
+
+#: inc/customizer.php:782 inc/customizer.php:882
+msgid "Check to show in new tab"
+msgstr "Yeni pencerede göstermek için tıkla"
+
+#: inc/customizer.php:752 inc/header-functions.php:37
+msgid "VK"
+msgstr "VK"
+
+#: inc/customizer.php:747 inc/header-functions.php:36
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/customizer.php:742 inc/header-functions.php:35
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/customizer.php:737 inc/functions.php:1103 inc/header-functions.php:34
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/customizer.php:732 inc/header-functions.php:33
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: inc/customizer.php:727 inc/header-functions.php:32
+msgid "Vine"
+msgstr "Vine"
+
+#: inc/customizer.php:722 inc/header-functions.php:31
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: inc/customizer.php:717 inc/header-functions.php:30
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/customizer.php:712 inc/functions.php:1085 inc/header-functions.php:29
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/customizer.php:707 inc/header-functions.php:28
+msgid "Delicious"
+msgstr "Delicious"
+
+#: inc/customizer.php:702 inc/functions.php:1091 inc/header-functions.php:27
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer.php:697 inc/header-functions.php:26
+msgid "Vimeo-Square"
+msgstr "Vimeo-Square"
+
+#: inc/customizer.php:692 inc/header-functions.php:25
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/customizer.php:687 inc/header-functions.php:24
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer.php:682 inc/functions.php:1097 inc/header-functions.php:23
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer.php:677 inc/header-functions.php:22
+msgid "Google-Plus"
+msgstr "Google-Plus"
+
+#: inc/customizer.php:672 inc/functions.php:1067 inc/header-functions.php:21
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer.php:667 inc/functions.php:1073 inc/header-functions.php:20
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:659
+msgid "Check to activate social links area"
+msgstr "Sosyal alanları aktifleştirmek için tıkla"
+
+#: inc/customizer.php:647
+msgid "Activate social links area"
+msgstr "Sosyal linkleri aktifleştir"
+
+#: inc/customizer.php:641
+msgid "Change the Social Links Settings from here as you want"
+msgstr "Sosyal ayarlarını isteğinize göre düzenleyin"
+
+#: inc/customizer.php:640
+msgid "Social Options"
+msgstr "Sosyal ayarlar"
+
+#: inc/customizer.php:630
+msgid "Write your custom css"
+msgstr "Özel CSS ni yaz"
+
+#: inc/customizer.php:618
+msgid "Custom CSS"
+msgstr "Özell CSS"
+
+#: inc/customizer.php:594
+msgid "This will reflect in links, buttons and many others. Choose a color to match your site"
+msgstr "Bu ayar linkleri,butonları ve birçok şeyi etkiler.Sitenize uyan rengi seçin"
+
+#: inc/customizer.php:583
+msgid "Primary color option"
+msgstr "Birincil renk ayarları"
+
+#: inc/customizer.php:574
+msgid "One Coulmn (Featured image on left and post excerpt on right)"
+msgstr "Tek bölme(Yazı resmi solda yazı bilgileri sağda)"
+
+#: inc/customizer.php:573
+msgid "Default (First image large and other two side by side)"
+msgstr "Varsayılan(ilk resim büyük diğerleri yan yana ikili)"
+
+#: inc/customizer.php:571
+msgid "Choose the layout option for the blog, archive and search results pages."
+msgstr "Blog,arşiv ve arama sonuöları için düzen"
+
+#: inc/customizer.php:559
+msgid "Blog/Archive and Search Pages Layout"
+msgstr "Blog/Arşiv ve arama sayfası düzeni"
+
+#: inc/customizer.php:545
+msgid "Select default layout for single posts. This layout will be reflected in all single posts unless unique layout is set for specific post"
+msgstr "Tek yazılık sayfalar için varsayılan tema.Tüm standart tek sayfalarda geçerli"
+
+#: inc/customizer.php:533
+msgid "Default layout for single posts only"
+msgstr "Tek yazılık sayfalar için varsayılan tema"
+
+#: inc/customizer.php:519
+msgid "Select default layout for pages. This layout will be reflected in all pages unless unique layout is set for specific page"
+msgstr "Sadece sayfalar için  düzen seçin.Bu tüm standart sayfalar için geçerli"
+
+#: inc/customizer.php:507
+msgid "Default layout for pages only"
+msgstr "Sadece sayfalar için  düzen"
+
+#: inc/customizer.php:493
+msgid "Select default layout. This layout will be reflected in whole site archives, categories, search page etc. The layout for a single post and page can be controlled from below options"
+msgstr "Site düzenini seç.Bu ayar arşivikategori ve arama sayfası gibi sayfaları değiştirecek"
+
+#: inc/customizer.php:481
+msgid "Default layout"
+msgstr "Varsayılan düzen"
+
+#: inc/customizer.php:411
+msgid "Wide Layout"
+msgstr "Geniş düzen"
+
+#: inc/customizer.php:410
+msgid "Boxed Layout"
+msgstr "Kutu düzeni"
+
+#: inc/customizer.php:408
+msgid "Choose your site layout. The change is reflected in whole site"
+msgstr "Site düzenini seçin."
+
+#: inc/customizer.php:396
+msgid "Site Layout"
+msgstr "Site düzeni"
+
+#: inc/customizer.php:389
+msgid "Check to hide blog posts/static page on front page"
+msgstr "Ön sayfada statik sayfa/blog yazılarını göstermemek için tıkla"
+
+#: inc/customizer.php:378
+msgid "Front Page Settings"
+msgstr "Ön sayfa ayarları"
+
+#: inc/customizer.php:372
+msgid "Design Options"
+msgstr "Tasarım ayarları"
+
+#: inc/customizer.php:370
+msgid "Change the Design Settings from here as you want"
+msgstr "Tasarım ayarlarını isteğinize göre değiştirin"
+
+#: inc/customizer.php:362
+msgid "Type 3: Header text, header sidebar both aligned center"
+msgstr "Tip 3:Header metni,yanpanel merkezi hizalı"
+
+#: inc/customizer.php:361
+msgid "Type 2: Header sidebar on left, header text & logo on right"
+msgstr "Tip 2:Header paneli solda,metni ve logo sağda"
+
+#: inc/customizer.php:360
+msgid "Type 1 (Default): Header text & logo on left, header sidebar on right"
+msgstr "Tip 1(Varsayılan):Header merni ve logo salda.panel sağda"
+
+#: inc/customizer.php:357
+msgid "Choose the header display type that you want"
+msgstr "Header gösterim tipini seç"
+
+#: inc/customizer.php:345
+msgid "Header Display Type"
+msgstr "Hader gösterim tipi"
+
+#: inc/customizer.php:338
+msgid "Check to make header image link back to home page"
+msgstr "Üst resmin linkini anasayfa yap"
+
+#: inc/customizer.php:326
+msgid "Display the Header image below main/primary menu."
+msgstr "Site logosunu menünün altında göster"
+
+#: inc/customizer.php:325
+msgid "Default: Display the Header image between site title/text and the main/primary menu."
+msgstr "Varsayılan: Logoyu site başlığı ve menü arasında göster"
+
+#: inc/customizer.php:324
+msgid "Display the Header image just above the site title/text."
+msgstr "Site logosunu site metninin üstünde göster"
+
+#: inc/customizer.php:321
+msgid "Header image display position"
+msgstr "Üst resim gözükme pozisyonu"
+
+#: inc/customizer.php:309
+msgid "Header Image Position"
+msgstr "Üst resim pozisyonu"
+
+#: inc/customizer.php:302
+msgid "Disable"
+msgstr "Kapalı"
+
+#: inc/customizer.php:301
+msgid "Show Both"
+msgstr "İkisinide göster"
+
+#: inc/customizer.php:300
+msgid "Header Text Only"
+msgstr "Sadece Metin"
+
+#: inc/customizer.php:299
+msgid "Header Logo Only"
+msgstr "Sadece logo"
+
+#: inc/customizer.php:296
+msgid "Choose the option that you want"
+msgstr "İstediğiniz seçeneği seçin"
+
+#: inc/customizer.php:282
+msgid "Upload logo for your header"
+msgstr "Üst taraf için logonu yükle"
+
+#: inc/customizer.php:270
+msgid "Header Logo"
+msgstr "Üst logo"
+
+#: inc/customizer.php:262
+msgid "Check to display the Random Post Icon in the primary menu"
+msgstr "Rastgele yazı ikonunu birincil menüde göster"
+
+#: inc/customizer.php:249
+msgid "Random Post"
+msgstr "Rastgele yazı"
+
+#: inc/customizer.php:242
+msgid "Check to display the Search Icon in the primary menu"
+msgstr "Arama ikonunu birincil menüde göster"
+
+#: inc/customizer.php:229
+msgid "Search Icon"
+msgstr "Arama ikonu"
+
+#: inc/customizer.php:222
+msgid "Check to enable the sticky behavior of the primary menu"
+msgstr "Birincil menüyü sabit yap"
+
+#: inc/customizer.php:209
+msgid "Sticky Menu"
+msgstr "Sabit menü"
+
+#: inc/customizer.php:202
+msgid "Check to show the home icon in the primary menu"
+msgstr "Anasayfa ikonunu birincil menüde göster"
+
+#: inc/customizer.php:189
+msgid "Show Home Icon"
+msgstr "Anasayfa logosunu göster"
+
+#: inc/customizer.php:182
+msgid "Check to show the date in header"
+msgstr "Tarihi üstte göster"
+
+#: inc/customizer.php:169
+msgid "Show Date"
+msgstr "Tarihi göster"
+
+#: inc/customizer.php:163
+msgid "Below Navigation"
+msgstr "Alt navigasyon"
+
+#: inc/customizer.php:162
+msgid "Header"
+msgstr "Header"
+
+#: inc/customizer.php:158
+msgid "Choose the location/area to place the Breaking News"
+msgstr "Son haberlerin konumunu seç"
+
+#: inc/customizer.php:144
+msgid "Enter the speed time for the Breaking News in the Header"
+msgstr "Son haber değişme hızı"
+
+#: inc/customizer.php:131
+msgid "Enter the duration time for the Breaking News in the Header"
+msgstr "Flaş haberler için gösterilme süresi"
+
+#: inc/customizer.php:119
+msgid "Down"
+msgstr "Aşa"
+
+#: inc/customizer.php:118
+msgid "Up"
+msgstr "Yukarı"
+
+#: inc/customizer.php:114
+msgid "Choose the animation style for the Breaking News in the Header"
+msgstr "Flaş haber animasyonunu seç"
+
+#: inc/customizer.php:100
+msgid "Enter the text to display for the ticker news"
+msgstr "Ticker haberler için görüntüleme metni"
+
+#: inc/customizer.php:94 inc/functions.php:706
+msgid "Latest:"
+msgstr "Enson:"
+
+#: inc/customizer.php:87
+msgid "Check to enable the breaking news section"
+msgstr "Yeniler i aktifleştirmek için tıkla"
+
+#: inc/customizer.php:74
+msgid "Breaking News"
+msgstr "Yeniler"
+
+#: inc/customizer.php:69
+msgid "Header Options"
+msgstr "Header ayarları"
+
+#: inc/customizer.php:67
+msgid "Change the Header Settings from here as you want"
+msgstr "Header ayarlarını buradan isteğinize göre değiştirin"
+
+#: inc/customizer.php:58
+msgid "Important Links"
+msgstr "Önemli linkler"
+
+#: inc/customizer.php:46
+msgid "ColorMag Theme Important Links"
+msgstr "ColorMag teması önemli linkler"
+
+#: inc/customizer.php:34
+msgid "Rate This Theme"
+msgstr "Temayı değerlendir"
+
+#: inc/customizer.php:30
+msgid "View Demo"
+msgstr "Demoyu gör"
+
+#: inc/customizer.php:26
+msgid "Support"
+msgstr "Destek"
+
+#: inc/customizer.php:22
+msgid "Documentation"
+msgstr "Dökümanlar"
+
+#: inc/admin/meta-boxes.php:48
+msgid "No Sidebar Content Centered"
+msgstr "Panelde ortalanmış içerik yok"
+
+#: inc/admin/meta-boxes.php:43
+msgid "No Sidebar Full Width"
+msgstr "Panelsiz genişliği kapla"
+
+#: inc/admin/meta-boxes.php:38 inc/widgets/widgets.php:32
+msgid "Left Sidebar"
+msgstr "Sol panel"
+
+#: inc/admin/meta-boxes.php:33 inc/widgets/widgets.php:21
+msgid "Right Sidebar"
+msgstr "Sağ panel"
+
+#: inc/admin/meta-boxes.php:28
+msgid "Default Layout"
+msgstr "Varsayılan düzen"
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr "Düzen seç"
+
+#: functions.php:85
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#: functions.php:84
+msgid "Primary Menu"
+msgstr "Birincil menü"
+
+#: content.php:45 inc/customizer.php:1138
+msgid "Read more"
+msgstr "Devamını oku"
+
+#: content-page.php:30 content-single.php:48
+msgid "Pages:"
+msgstr "sayfalar;"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Yorum yapmak yasak"
+
+#: comments.php:40 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Yeni yorumlar &rarr;"
+
+#: comments.php:39 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Eski yorumlar"
+
+#: comments.php:38 comments.php:55
+msgid "Comment navigation"
+msgstr "Yorum navigasyonu"
+
+#: archive.php:71
+msgid "Archives"
+msgstr "Arşivler"
+
+#: archive.php:65
+msgid "Links"
+msgstr "Linkler"
+
+#: archive.php:62
+msgid "Quotes"
+msgstr "Alıntılar"
+
+#: archive.php:59
+msgid "Videos"
+msgstr "Videolar"
+
+#: archive.php:56
+msgid "Images"
+msgstr "Görüntüler"
+
+#: archive.php:53
+msgid "Asides"
+msgstr "Bir yana"
+
+#: archive.php:50
+msgid "Year: %s"
+msgstr "Yıl: %s"
+
+#: archive.php:47
+msgid "Month: %s"
+msgstr "Ay: %s"
+
+#: archive.php:44
+msgid "Day: %s"
+msgstr "Gün: %s"
+
+#: archive.php:36
+msgid "Author: %s"
+msgstr "Yazar: %s"
+
+#: am/classes/class-wc-plugin-update.php:535
+msgid "You changed the subscription for %s, so you will need to enter your new API License Key in the settings page. The License Key should have arrived in your email inbox, if not you can get it by logging into your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr "%s, için üyrlik değiştirildi.Yani yeni lisans anahtarını ayarlar bölümünden girmen lazım. The License Emailinize gelmiş olması lazım.Gelmediyse giriş yapıp edinebilirsiniz. <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: am/classes/class-wc-plugin-update.php:520
+msgid "%s has not been activated. Go to the settings page and enter the license key and license email to activate %s."
+msgstr "%s aktifleştirilmedi.Ayarlara gidip lisans ve lisans emailini girip aktfileştir %s."
+
+#: am/classes/class-wc-plugin-update.php:505
+msgid "Download permission for %s has been revoked possibly due to a license key or subscription expiring. You can reactivate or purchase a license key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr "İndirme izni %s için kapatıldı.Lisans bittiği için olabilir. Yeniden aktifleştirmek için hesabınıza gidin <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: am/classes/class-wc-plugin-update.php:490
+msgid "A license key for %s could not be found. Maybe you forgot to enter a license key when setting up %s, or the key was deactivated in your account. You can reactivate or purchase a license key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr "%s için lisans bulunamadı.Belki de lisans anahtarı girmeyi unuttunuz.Veya hesabınızda ki lisans pasif.Yeniden aktifleştirmek için <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: am/classes/class-wc-plugin-update.php:475
+msgid "A subscription for %s could not be found. You can purchase a subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr "%s için lisans bulunamadı.Hesabınızdan yeniden üyelik alabilirsiniz <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: am/classes/class-wc-plugin-update.php:460
+msgid "The subscription for %s has been placed in the trash and will be deleted soon. You can purchase a new subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr "%s için lisans çöpe taşındı ve yakında silinecek. Hesabınızdan yeni üyelik alabilirsiniz <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: am/classes/class-wc-plugin-update.php:445
+msgid "The subscription for %s is still pending. You can check on the status of the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr "%s halen beklemede.Durumunu burdan kontrol edebilirsiniz <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: am/classes/class-wc-plugin-update.php:430
+msgid "The subscription for %s has been suspended. You can reactivate the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr "%s için üyelik durduruldu. Hesabınızdan yeniden aktifleştirin <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: am/classes/class-wc-plugin-update.php:415
+msgid "The subscription for %s has expired. You can reactivate the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr " %s Lisans süresi bitti.Hesabınızdan yeniden aktifleştirin <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: am/classes/class-wc-plugin-update.php:400
+msgid "The subscription for %s has been cancelled. You can renew the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new license key will be emailed to you after your order has been completed."
+msgstr " %s e ait üyelik iptal edildi.Hesabınızdan tekrar aktifleştirebilirsiniz<a href=\"%s\" target=\"_blank\">Panel</a>. Yeni lisans satın alma işleminden sonra email olarak size gelecektir"
+
+#: am/classes/class-wc-plugin-update.php:385
+msgid "The subscription for %s is on-hold. You can reactivate the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr "%s için üyelik beklemede. Hesabınızdan yeniden aktifleştirebilirsiniz <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: am/classes/class-wc-plugin-update.php:370
+msgid "The license key for %s has expired. You can reactivate or purchase a license key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr " %s için lisans bitti. Hesabınızdan yeniden aktifleştirin yada yeni lisans satın alın <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: am/admin/class-wc-api-manager-menu.php:365
+msgid "Deactivates an API License Key so it can be used on another blog."
+msgstr "API lisans anahtarını pasifleştirerek başka bloglarda kullanabilirsiniz"
+
+#: am/admin/class-wc-api-manager-menu.php:296
+msgid "Theme license deactivated. "
+msgstr "Tema lisansı pasifleştirildi"
+
+#: am/admin/class-wc-api-manager-menu.php:254
+msgid "The license could not be deactivated. Use the License Deactivation tab to manually deactivate the license before activating a new license."
+msgstr "Lisans pasifleştirilemedi.Lisans pasifleştirme penceresinde elle pasifleştirin"
+
+#: am/admin/class-wc-api-manager-menu.php:165
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr "Lisans anahtarı API sunucusuna bağlantı kurulamadı.Tekrar deneyin"
+
+#: am/admin/class-wc-api-manager-menu.php:159
+msgid "Theme activated. "
+msgstr "Tema aktifleştirildi"
+
+#: am/admin/class-wc-api-manager-menu.php:88
+msgid "Deactivate API License Key"
+msgstr "API Lisans anahtarı pasifleştir"
+
+#: am/admin/class-wc-api-manager-menu.php:87
+msgid "API License Deactivation"
+msgstr "API Lisans  pasifleştir"
+
+#: am/admin/class-wc-api-manager-menu.php:83
+msgid "API License email"
+msgstr "API Lisans emaili"
+
+#: am/admin/class-wc-api-manager-menu.php:82
+msgid "API License Key"
+msgstr "API lisans anahtarı"
+
+#: am/admin/class-wc-api-manager-menu.php:81
+msgid "API License Activation"
+msgstr "API lisans aktifleştirme"
+
+#: am/admin/class-wc-api-manager-menu.php:62
+#: am/admin/class-wc-api-manager-menu.php:66
+msgid "Save Changes"
+msgstr "Kaydet"
+
+#: 404.php:32
+msgid "Error"
+msgstr "hata"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr "Burada bir şey bulunamadı.Lütfen tekrar arayın"
+
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Aradığınız sayfa bulunamadı"
+
+#: 404.php:30
+msgid "404"
+msgstr "404"
